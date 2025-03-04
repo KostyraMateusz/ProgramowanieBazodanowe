@@ -12,7 +12,7 @@ Table Product {
 Table ProductGroup {
   ID int [pk]
   Name string
-  ParentID int [ref: > ProductGroup.ID]
+  ParentID int [ref: < ProductGroup.ID]
 }
 
 Table User {
