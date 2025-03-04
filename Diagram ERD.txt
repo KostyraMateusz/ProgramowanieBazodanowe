@@ -1,0 +1,49 @@
+Kod programu dla strony dbdiagram.io
+
+Table Product {
+  ID int [pk]
+  Name string
+  Price double
+  Image string
+  IsActive bool
+  GroupID int [ref: > ProductGroup.ID]
+}
+
+Table ProductGroup {
+  ID int [pk]
+  Name string
+  ParentID int [ref: > ProductGroup.ID]
+}
+
+Table User {
+  ID int [pk]
+  Login string
+  Password string
+  Type enum('Admin', 'Casual')
+  IsActive bool
+  GroupID int [ref: > UserGroup.ID]
+}
+
+Table UserGroup {
+  ID int [pk]
+  Name string
+}
+
+Table BasketPosition {
+  ProductID int [ref: > Product.ID]
+  UserID int [ref: > User.ID]
+  Amount int
+}
+
+Table Order {
+  ID int [pk]
+  UserID int [ref: > User.ID]
+  Date datetime
+}
+
+Table OrderPosition {
+  OrderID int [ref: > Order.ID]
+  ProductID int [ref: > Product.ID]
+  Amount int
+  Price double
+}
