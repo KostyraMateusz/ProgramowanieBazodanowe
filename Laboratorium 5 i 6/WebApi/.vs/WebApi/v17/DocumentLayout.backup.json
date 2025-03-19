@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\webapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DbSklep/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2366F624-3406-422E-B931-6D506658F63E}|..\\DataGenerator\\DataGenerator.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\datagenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F230D-1254-4A02-BC9C-349746654280}|..\\DAL\\DAL.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mateusz\\Desktop\\Programowanie_Bazodanowe_WebStore\\DAL\\WebstoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mateusz\\Desktop\\DataGenerator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DAL\\Migrations\\20250319184358_Migracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4083E5D-EA70-4AAD-B849-DA3A1FED12ED}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll_ef\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B946D-3406-421A-AA4E-EED5EB1A8602}|..\\BLL\\BLL.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll\\serviceinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B946D-3406-421A-AA4E-EED5EB1A8602}|..\\BLL\\BLL.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll\\dtomodels\\user\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4083E5D-EA70-4AAD-B849-DA3A1FED12ED}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll_ef\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4083E5D-EA70-4AAD-B849-DA3A1FED12ED}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll_ef\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4083E5D-EA70-4AAD-B849-DA3A1FED12ED}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 5 i 6\\bll_ef\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:49:40.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DbSklep/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T18:47:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\Programowanie_Bazodanowe_WebStore\\DAL\\WebstoreContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programowanie_Bazodanowe_WebStore\\DAL\\WebstoreContext.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\Programowanie_Bazodanowe_WebStore\\DAL\\WebstoreContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Programowanie_Bazodanowe_WebStore\\DAL\\WebstoreContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:46:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\DataGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DataGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\DataGenerator\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\DataGenerator\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:45:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250319184358_Migracja.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DAL\\Migrations\\20250319184358_Migracja.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250319184358_Migracja.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DAL\\Migrations\\20250319184358_Migracja.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250319184358_Migracja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:43:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\BLL\\ServiceInterfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:39:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL\\DTOModels\\User\\UserLoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\User\\UserLoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL\\DTOModels\\User\\UserLoginRequestDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\User\\UserLoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:39:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Controllers\\BasketController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:34:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:33:44.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DataGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DataGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DataGenerator\\Program.cs",
+              "RelativeToolTip": "..\\DataGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:32:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\UserService.cs",
+              "RelativeToolTip": "..\\BLL_EF\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:32:20.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\ProductService.cs",
+              "RelativeToolTip": "..\\BLL_EF\\ProductService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:54.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\OrderService.cs",
+              "RelativeToolTip": "..\\BLL_EF\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\BasketService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\BLL_EF\\BasketService.cs",
+              "RelativeToolTip": "..\\BLL_EF\\BasketService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:27.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DAL\\WebStoreContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\WebStoreContext.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 5 i 6\\DAL\\WebStoreContext.cs",
+              "RelativeToolTip": "..\\DAL\\WebStoreContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:29:29.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 3\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\BLL\obj\Debug\net8.0\ref\BLL.dll
