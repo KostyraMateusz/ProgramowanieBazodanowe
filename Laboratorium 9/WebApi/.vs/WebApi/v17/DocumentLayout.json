@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\servicemongo\\userservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\servicemongo\\productservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\servicemongo\\orderservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\servicemongo\\basketservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\servicemongo\\sequenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\usermongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\usergroupmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\productmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\productgroupmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\orderitemmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\ordermongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91BE36D-2B5B-447D-B939-3D6398C7D82B}|..\\BLL_MongoDb\\BLL_MongoDb.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_mongodb\\modelmongo\\basketitemmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6E7B8DB-7061-4D56-9402-59BFB7C38603}|WebApi.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4083E5D-EA70-4AAD-B849-DA3A1FED12ED}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll_ef\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B946D-3406-421A-AA4E-EED5EB1A8602}|..\\BLL\\BLL.csproj|c:\\users\\mateusz\\desktop\\programowaniebazodanowe\\laboratorium 9\\bll\\dtomodels\\basket\\basketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderServiceMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\OrderServiceMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ServiceMongo\\OrderServiceMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\OrderServiceMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ServiceMongo\\OrderServiceMongo.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:38:11.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServiceMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\ProductServiceMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ServiceMongo\\ProductServiceMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\ProductServiceMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ServiceMongo\\ProductServiceMongo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:38:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:45:56.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SequenceService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\SequenceService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ServiceMongo\\SequenceService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\SequenceService.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ServiceMongo\\SequenceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:09:35.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\UserServiceMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ServiceMongo\\UserServiceMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\UserServiceMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ServiceMongo\\UserServiceMongo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:38:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketServiceMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\BasketServiceMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ServiceMongo\\BasketServiceMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ServiceMongo\\BasketServiceMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ServiceMongo\\BasketServiceMongo.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:38:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\UserMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\UserMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\UserMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\UserMongo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserGroupMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\UserGroupMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\UserGroupMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\UserGroupMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\UserGroupMongo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\ProductMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\ProductMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\ProductMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\ProductMongo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductGroupMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\ProductGroupMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\ProductGroupMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\ProductGroupMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\ProductGroupMongo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\OrderItemMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\OrderItemMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\OrderItemMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\OrderItemMongo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\OrderMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\OrderMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\OrderMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\OrderMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:51:50.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketItemMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\BasketItemMongo.cs",
+              "RelativeDocumentMoniker": "..\\BLL_MongoDb\\ModelMongo\\BasketItemMongo.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_MongoDb\\ModelMongo\\BasketItemMongo.cs",
+              "RelativeToolTip": "..\\BLL_MongoDb\\ModelMongo\\BasketItemMongo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:51:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T12:45:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL\\DTOModels\\Basket\\BasketRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Basket\\BasketRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL\\DTOModels\\Basket\\BasketRequestDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Basket\\BasketRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:43:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_EF\\BasketService.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\ProgramowanieBazodanowe\\Laboratorium 9\\BLL_EF\\BasketService.cs",
+              "RelativeToolTip": "..\\BLL_EF\\BasketService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:39:37.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

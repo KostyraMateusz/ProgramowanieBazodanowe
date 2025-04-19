@@ -1,0 +1,70 @@
+C:\Users\Student\Desktop\lab\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Student\Desktop\lab\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Student\Desktop\lab\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Student\Desktop\lab\Model\obj\Debug\net8.0\ref\Model.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\bin\Debug\net8.0\Model.deps.json
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\bin\Debug\net8.0\Model.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\bin\Debug\net8.0\Model.pdb
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\refint\Model.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\Model.pdb
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\Model\obj\Debug\net8.0\ref\Model.dll

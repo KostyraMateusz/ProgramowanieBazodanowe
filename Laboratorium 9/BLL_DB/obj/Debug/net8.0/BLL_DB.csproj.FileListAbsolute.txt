@@ -1,0 +1,40 @@
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\BLL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\BLL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll

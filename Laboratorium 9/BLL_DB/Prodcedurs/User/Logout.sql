@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE dbo.LogoutUser
+AS
+BEGIN
+    DELETE FROM UserSessions WHERE SessionId = CURRENT_USER;
+
+END

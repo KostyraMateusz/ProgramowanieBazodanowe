@@ -1,0 +1,106 @@
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\Model.dll
+C:\Users\Student\Desktop\lab\DAL\bin\Debug\net8.0\Model.pdb
+C:\Users\Student\Desktop\lab\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\DAL.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\DAL.pdb
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\Model.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\bin\Debug\net8.0\Model.pdb
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.pdb
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+F:\Studia\Magisterskie\Semestr II\Programowanie bazodanowe\Laboratorium 2\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 4\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 5 i 6\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 7 i 8\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\Model.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\bin\Debug\net8.0\Model.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\ProgramowanieBazodanowe\Laboratorium 9\DAL\obj\Debug\net8.0\ref\DAL.dll
